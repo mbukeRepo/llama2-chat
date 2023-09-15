@@ -23,7 +23,7 @@ pip install -r requirements.pip.txt
 ```
 jupyter notebook --no-browser --port=8888
 ```
-- In during the finetuning of llama-2 I used a remote server with a gpu, to connect with remote jupyter notebook
+- During the finetuning of llama-2 I used a remote server with a gpu, to connect with remote jupyter notebook
 you can use ssh tunneling. 
 
 ```
